@@ -31,6 +31,7 @@ GIF_DIR.mkdir(exist_ok=True)
 
 TRIGGERS = (
     "аыа",
+    "аы",
 )
 
 
